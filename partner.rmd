@@ -1,0 +1,22 @@
+---
+title: "partner"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+Maxwell Farver
+
+max-farver
+
+
+
+-He submitted the assignment with the comment "initial commit".
+
+-Commit ID:  d0d7424f291066494df76a43db2c4332bbce69a3
+
+-No errors occurred when knitting his RMarkDown
+
+One tip is to just use it more, once you get the hang of it it's really pretty easy. (also always push first so you don't have to deal with merge errors)
