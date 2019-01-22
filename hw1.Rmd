@@ -1,0 +1,8 @@
+---
+title: "hw1"
+author: "Evan Mills"
+date: "January 17, 2019"
+output: html_document
+---
+
+What I consider to be **Data Science** is taking large data sets and creating a modle to use to analize the past and create predictions for the future. These modles can be used either by humans or used to train mechines to make these predictions. *This is a picture* [DUh](https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwiHgOfvyPXfAhUMW60KHZYyCUEQjRx6BAgBEAU&url=https%3A%2F%2Fwww.appytrucksandskulls.com%2F9306%2Fpictures-of-a-giraffe-27-08-2018%2F&psig=AOvVaw3BdFClYrC6Pcjl1SjAjIg0&ust=1547840236985221)
